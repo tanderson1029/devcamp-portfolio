@@ -29,3 +29,6 @@ module DevcampPortfolio
     config.generators.system_tests = nil
   end
 end
+
+def meth(a)
+end 
